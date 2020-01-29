@@ -60,6 +60,10 @@ namespace VisualProject
                 }
                 myStream.Close();
             }
+            MessageBox.Show("Сохранено!");
+            Form Start = new F1_Start();
+            Start.Show();
+            this.Hide();
         }
     }
 }
