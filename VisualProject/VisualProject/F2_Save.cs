@@ -42,8 +42,10 @@ namespace VisualProject
                         {
                             for (int j = 0; j < dataGridView1.ColumnCount; j++)
                             {
+                                if (dataGridView1.Rows[i].Cells[j].Value == null) { dataGridView1.Rows[i].Cells[j].Value = 0; }
                                 myWriter.Write(dataGridView1.Rows[i].Cells[j].Value.ToString());
                                 if ((dataGridView1.ColumnCount - j) != 1) myWriter.Write("|");
+                                
                             }
 
                             if (((dataGridView1.RowCount - 1) - i - 1) != 0) myWriter.WriteLine();

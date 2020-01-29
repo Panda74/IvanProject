@@ -9,3 +9,15 @@ C:\Новая папка\Github\IvanProject\VisualProject\VisualProject\bin\Debu
 C:\Новая папка\Github\IvanProject\VisualProject\VisualProject\obj\Debug\VisualProject.exe
 C:\Новая папка\Github\IvanProject\VisualProject\VisualProject\obj\Debug\VisualProject.pdb
 C:\Новая папка\Github\IvanProject\VisualProject\VisualProject\obj\Debug\VisualProject.F3_Load.resources
+C:\GitHub\IvanProject\VisualProject\VisualProject\bin\Debug\VisualProject.exe.config
+C:\GitHub\IvanProject\VisualProject\VisualProject\obj\Debug\VisualProject.exe
+C:\GitHub\IvanProject\VisualProject\VisualProject\obj\Debug\VisualProject.pdb
+C:\GitHub\IvanProject\VisualProject\VisualProject\bin\Debug\VisualProject.exe
+C:\GitHub\IvanProject\VisualProject\VisualProject\bin\Debug\VisualProject.pdb
+C:\GitHub\IvanProject\VisualProject\VisualProject\obj\Debug\VisualProject.csprojResolveAssemblyReference.cache
+C:\GitHub\IvanProject\VisualProject\VisualProject\obj\Debug\VisualProject.F2_Save.resources
+C:\GitHub\IvanProject\VisualProject\VisualProject\obj\Debug\VisualProject.F3_Load.resources
+C:\GitHub\IvanProject\VisualProject\VisualProject\obj\Debug\VisualProject.F1_Start.resources
+C:\GitHub\IvanProject\VisualProject\VisualProject\obj\Debug\VisualProject.formafortest.resources
+C:\GitHub\IvanProject\VisualProject\VisualProject\obj\Debug\VisualProject.Properties.Resources.resources
+C:\GitHub\IvanProject\VisualProject\VisualProject\obj\Debug\VisualProject.csproj.GenerateResource.Cache
