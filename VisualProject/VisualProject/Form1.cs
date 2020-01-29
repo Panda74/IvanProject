@@ -10,11 +10,25 @@ using System.Windows.Forms;
 
 namespace VisualProject
 {
-    public partial class Form1 : Form
+    public partial class F1_Start : Form
     {
-        public Form1()
+        public F1_Start()
         {
             InitializeComponent();
+        }
+
+        private void btn_Save_Click(object sender, EventArgs e)
+        {
+            Form Save = new F2_Save();
+            Save.Show();
+            this.Hide();
+        }
+
+        private void btn_Load_Click(object sender, EventArgs e)
+        {
+            Form Load = new F3_Load();
+            Load.Show();
+            this.Hide();
         }
     }
 }
