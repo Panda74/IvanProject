@@ -21,3 +21,4 @@ C:\GitHub\IvanProject\VisualProject\VisualProject\obj\Debug\VisualProject.F1_Sta
 C:\GitHub\IvanProject\VisualProject\VisualProject\obj\Debug\VisualProject.formafortest.resources
 C:\GitHub\IvanProject\VisualProject\VisualProject\obj\Debug\VisualProject.Properties.Resources.resources
 C:\GitHub\IvanProject\VisualProject\VisualProject\obj\Debug\VisualProject.csproj.GenerateResource.Cache
+C:\Новая папка\Github\IvanProject\VisualProject\VisualProject\obj\Debug\VisualProject.formafortest.resources
